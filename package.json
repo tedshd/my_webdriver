@@ -1,0 +1,10 @@
+{
+  "name": "webdriver",
+  "version": "",
+  "description": "automation test on MAC OSX",
+  "devDependencies": {
+    "wdio-mocha-framework": "^0.3.10",
+    "wdio-spec-reporter": "0.0.3",
+    "webdriverio": "^4.2.3"
+  }
+}
