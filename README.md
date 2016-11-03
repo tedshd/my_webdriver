@@ -30,8 +30,8 @@ node test.js
 ```shell
 ./node_modules/.bin/wdio wdio.conf.js
 
-// or
+# or
 
-// need set from wdio.conf.js
+# need set from wdio.conf.js
 ./node_modules/.bin/wdio wdio.conf.js --suite <test js>
 ```
